@@ -17,4 +17,4 @@ I'm Kelvin and I'm a Backend Web Developer Student, from Brazil
 
 ## I code with
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react)](https://skillicons.dev)
