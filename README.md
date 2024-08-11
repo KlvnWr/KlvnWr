@@ -1,6 +1,6 @@
 # Eai 👋 Suave ?
 
-I'm Kelvin and I'm a Backend Web Developer Student, from Brazil
+I'm Kelvin and I'm a Backend Web Developer Student for Fatec Lins, from Brazil
 
 ## Contact
 
@@ -12,7 +12,7 @@ I'm Kelvin and I'm a Backend Web Developer Student, from Brazil
 
 ✨ Coding since 2022  
 📚 I'm currently learning Java/Spring 💻  
-🎯 Goals: To become a Backend Web Developer  
+🎯 Goals: To become a Software Engineer
 🎲 Fun fact: Soccer⚽, Gym💪🏼 and Animes⛩️
 
 ## I code with
