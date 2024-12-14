@@ -20,4 +20,4 @@ I'm Kelvin and I'm a Student of Internet System on Fatec Lins, from Brazil
 
 ## I code with
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,react,ts)](https://skillicons.dev)
